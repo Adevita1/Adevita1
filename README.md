@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Adevita1
 - 👀 I´m interested in learning, both in courses and also collaborating for a project, or in companies that have the option of training.
 - 🌱 I’m currently learning JAVA and MySQL
-- 💞️ I’m looking get training jobs.
 - 📫 You can contact me at adriandevita@gmail.com
 
 <!---
