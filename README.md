@@ -1,6 +1,3 @@
-# Hello @Adevita1! It's great to hear that you're interested in learning and collaborating on projects. Here's an improved version of your GitHub readme in English:
-
----
 ## Hi, I'm @Adevita1! 👋
 
 # Welcome to my GitHub profile! I'm passionate about learning and exploring new technologies. I have a strong foundation in programming languages such as Java, Python, HTML5, CSS, and MySQL. Additionally, I also possess knowledge in Data Science.
